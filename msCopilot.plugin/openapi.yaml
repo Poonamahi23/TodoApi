@@ -4,6 +4,9 @@
       "title": "msCopilot.plugin",
       "version": "1.0"
     },
+    "servers": [
+      "url":"https://7v4lf05c-7136.inc1.devtunnels.ms/"
+    ],
     "paths": {
       "/WeatherForecast": {
         "get": {
