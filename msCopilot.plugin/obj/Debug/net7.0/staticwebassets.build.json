@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CLwgwXJHuzVtPkYtpQsi7FcLawqFF9iGgnmYhDOxLi4=",
+  "Source": "msCopilot.plugin",
+  "BasePath": "_content/msCopilot.plugin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

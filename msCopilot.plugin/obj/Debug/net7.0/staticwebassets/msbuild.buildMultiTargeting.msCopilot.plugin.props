@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\msCopilot.plugin.props" />
+</Project>

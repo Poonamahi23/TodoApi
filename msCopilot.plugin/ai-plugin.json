@@ -1,0 +1,18 @@
+{
+    "schema_version": "v1",
+    "name_for_model": "weatherapi",
+    "description_for_model": "API providing accurate and timely weather forecasts, catering to user inquiries for up-to-date weather information, including temperature, conditions, and forecasts.",
+    "name_for_human": "Weather Forecast Service",
+    "description_for_human": "Access reliable and detailed weather forecasts, keeping you informed about current conditions and upcoming weather trends for optimal planning.",
+    "api": {
+      "type": "openapi",
+      "url": "http://localhost:8080/openapi.yaml",
+      "is_user_authenticated": false
+    },
+    "auth": {
+      "type": "none"
+    },
+    "logo_url": "http://localhost:8080/logo.png",
+    "contact_email": "contact@weather.com",
+    "legal_info_url": "https://weather.com/legal/"
+  }
